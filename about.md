@@ -3,4 +3,5 @@ layout: page
 title: About me
 ---
 
-Something about me.
+<h1>About me</h1>
+<h2>social medias</h2>
