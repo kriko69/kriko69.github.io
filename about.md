@@ -22,7 +22,7 @@ title: About me
 <ul>
     <li>Malware developer</li>
     <li>Reversing</li>
-    <li>Pwn!</hi>
+    <li>Pwn!</li>
     <li>Defenses evasion</li>
     <li>Windows Red Team</li>
     <li>Active Directory Red Team</li>

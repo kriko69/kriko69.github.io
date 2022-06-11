@@ -1,5 +1,5 @@
 ---
-title: Windows Priviele Escalation
+title: Windows Privilege Escalation
 published: true
 ---
 

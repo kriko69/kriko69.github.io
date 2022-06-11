@@ -1,5 +1,5 @@
 ---
-title: Linux Priviele Escalation
+title: Linux Privilege Escalation
 published: true
 ---
 

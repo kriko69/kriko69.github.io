@@ -1,5 +1,5 @@
 ---
-title: Metodologia Priviele Escalation
+title: Metodologia Privilege Escalation
 published: true
 ---
 
