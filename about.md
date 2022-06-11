@@ -33,8 +33,8 @@ title: About me
 <ul>
     <li>CRTP</li>
     <li>eMAPT</li>
-    <li>OSCP</hi>
-    <li>eCXD</hi>
+    <li>OSCP</li>
+    <li>eCXD</li>
     <li>CRTE</li>
     <li>CRTO</li>
     <li>OSEP</li>
