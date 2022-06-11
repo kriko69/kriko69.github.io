@@ -16,6 +16,7 @@ title: About me
 <h1>About this blog</h1>
 
 <p>Although the blog notes are in Spanish, I hope to be able to improve my English so that I can have the entire page in that language.</p>
+<p>This blog contains many notes about pentesting topics. They are my notes of everything I learn in my free time, CTF and preparation for certifications. I hope it helps you.</p>
 
 <h1>Interests</h1>
 
@@ -40,6 +41,8 @@ title: About me
     <li>OSEP</li>
     <li>OSED</li>
 </ul>
+
+<p>yes, I know it is too much. Do not disturb. I will do it!</p>
 
 <h1>New Udemy's courses in progress</h1>
 
