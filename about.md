@@ -3,6 +3,8 @@ layout: page
 title: About me
 ---
 
+<center><img src="assets/kriko.png" style="border-radius:50%;"></center>
+
 <h1>About me</h1>
 
 <ul>

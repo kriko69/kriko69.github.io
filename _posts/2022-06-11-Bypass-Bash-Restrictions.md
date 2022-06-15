@@ -14,7 +14,8 @@ published: true
     - [DOBLE BASE64](#doble-base64)
     - [SHORT REVERSE SHELL](#short-reverse-shell)
   - [TRUCOS PALABRSA PROHIBIDAS Y BYPASS PATHS](#trucos-palabrsa-prohibidas-y-bypass-paths)
-    - [SUSTITUIR UN CARACTER CON SIGNO DE INTERROGACION](#sustituir-un-caracter-con-signo-de-interrogacion)
+    - [SUSTITUIR UN CARACTER CON SIGNO DE INTERROGACION]
+    (#sustituir-un-caracter-con-signo-de-interrogacion)
     - [SUSTITUIR UN CARACTER CON COMODIN](#sustituir-un-caracter-con-comodin)
     - [SUSTITUIR UN CARACTER ENCERRANDOLO ENTRE CORCHETES](#sustituir-un-caracter-encerrandolo-entre-corchetes)
     - [COMILLAS PARA CONCATENACIONES](#comillas-para-concatenaciones)
