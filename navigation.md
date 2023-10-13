@@ -1,4 +1,4 @@
-# Azure Pentest Beginner
+# Pentesting Notes
 
 [Notes]()
 
