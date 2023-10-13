@@ -28,9 +28,8 @@
 
 [Web Hacking]()
 
-  * [Enumeracion]()
-    * [Enumeracion Web](WebHacking/1.Enumeracion/1.Enumeracion-Web/enumeracion-web.md)
-    * [Content Discovery (ScrappingJS)](WebHacking/1.Enumeracion/1.Enumeracion-Web/content_discovery_(scrappingJS).md)
+  * [Enumeracion Web](WebHacking/1.Enumeracion/1.Enumeracion-Web/enumeracion-web.md)
+  * [Content Discovery (ScrappingJS)](WebHacking/1.Enumeracion/1.Enumeracion-Web/content_discovery_(scrappingJS).md)
 
 - - - -
 
