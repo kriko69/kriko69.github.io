@@ -1,0 +1,37 @@
+WEB METODOLOGY (Bug Bounty)
+
+- descubrimiento de subdominios
+	- gobuster
+	- wfuzz
+	- ffuf
+	- security trails
+	- google dorks (site:) 
+	- reconFTW
+	- subbrute
+	- domain zone transfer
+	- assetfinder (assetfinder --subs-only domain.name) (https://github.com/tomnomnom/assetfinder)
+	- shodan
+- directorios
+	-meg (https://github.com/tomnomnom/meg)
+- filtro solo aplicaciones web
+	-httprobe (cat domains | httprobe) (https://github.com/tomnomnom/httprobe)
+- verificacion de puertos abiertos
+	-shodan (por dominio)
+- analisis de puertos
+	-masscan
+- aquatone (https://github.com/michenriksen/aquatone)
+	- para capturar la lista de aplicaciones web en vivo. Hay dos razones por las que lo hago. Por un lado, podré detectar rápidamente cualquier desviación visual de la interfaz de usuario común. Por otro lado, obtendré una vista panorámica de las diferentes categorías y tecnologías de aplicaciones web. Esto es posible porque aquatone agrupa interfaces de usuario similares y muestra las tecnologías de las aplicaciones web en los resultados HTML.
+- cewl
+-amass
+- buscar links o urls en archivos JS
+	- LinkFinder (https://github.com/GerbenJavado/LinkFinder)
+- subdomain takeover
+	- https://amitp200.medium.com/subdomain-takeover-easy-win-win-6034bb4147f3
+
+
+https://thehackerish.com/owasp-top-10-the-ultimate-guide/
+https://thehackerish.com/my-bug-bounty-methodology-and-how-i-approach-a-target/
+https://www.bugcrowd.com/blog/discovering-subdomains/
+https://thehackerish.com/bug-bounty-tools-from-enumeration-to-reporting/
+https://gist.github.com/cyberheartmi9/1ac77d171d9b9dc9a5be45fa4f4c8dcb
+https://infosecwriteups.com/bug-hunting-methodology-for-beginners-20b56f5e7d19

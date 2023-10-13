@@ -1,0 +1,50 @@
+WEB METODOLOGY (CTF)
+
+- Descubrir puertos (80-443-8080-8000-8443) (nmap -sS -Pn -T4 -p- TARGET_IP) (nmap -O -A -Pn -T4 -p80,443 TARGET_IP)
+- Interactuar con la pagina
+	- LLenar registros de usuarios (crearse cuenta)
+- Revisar el codigo fuente
+	- revisar comentarios
+	- revisar links-urls (subdominios y directorios)
+	- revisar scripts .js u otros (contet-discovery)
+- ver archivos bien conocidos
+	- /robots.txt (directorios)
+	- /.well-known/example (lista de example -> https://en.wikipedia.org/wiki/Well-known_URI#List_of_well-known_URIs)
+	- .git
+- Virtual Hosting
+	- A veces, visitar la dirección IP de destino no revela nada. (Agregar la ip al /etc/hosts)
+- verificacion de un waf
+	- whatw00f
+- Descubrimiento de directorio (RECURSIVO)
+	- dirb
+	- wfuzz
+	- ffuf
+	- dirsearch
+	- feroxbuster
+	- gobuster
+	- nmap script http-enum
+- descubrimiento de subdominios
+	- gobuster
+	- wfuzz
+	- ffuf
+	- security trails
+	- google dorks (site:) 
+	- reconFTW
+	- subbrute
+	- domain zone transfer
+	- assetfinder (assetfinder --subs-only domain.name) (https://github.com/tomnomnom/assetfinder)
+- descubrir tecnologias (POR CADA PAGINA)
+	- whatweb
+	- wappalyzer
+- buscar exploit con las versiones de tecnologias web (POR CADA PAGINA)
+	- exploit-db.com
+	- searchsploit
+	- attackerkb.com
+- Ataques de fuerza a inicios de sesion (CTF porque en Real World te bloquean)
+	- hydra (con y sin autenticacion basica)
+
+	
+
+https://0xsanz.medium.com/web-enumeration-methodology-8b44e52730d6
+https://www.bugcrowd.com/blog/discovering-subdomains/
+
